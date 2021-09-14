@@ -1,0 +1,264 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Administrator",
+      "lastName": "",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "avatar": "https://robohash.org/eaquequasincidunt.png?size=50x50&set=set1",
+      "gender": "Genderfluid",
+      "phone": "933-658-1213",
+      "birthday": "1994-03-23",
+      "status": true,
+      "createdAt": 1609483221000,
+      "modifiedAt": 1609483221000
+    },
+    {
+      "id": 2,
+      "firstName": "Alberta",
+      "lastName": "Farncomb",
+      "username": "afarncomb1",
+      "email": "afarncomb1@liveinternet.ru",
+      "password": "FfshsAlZ",
+      "avatar": "https://robohash.org/accusantiumminimamagni.png?size=50x50&set=set1",
+      "gender": "Male",
+      "phone": "510-449-7332",
+      "birthday": "2002-03-11",
+      "status": false,
+      "createdAt": 1617440961000,
+      "modifiedAt": 1618301961000
+    },
+    {
+      "id": 3,
+      "firstName": "Kizzie",
+      "lastName": "Shama",
+      "username": "kshama2",
+      "email": "kshama2@prlog.org",
+      "password": "kjU6qK1Bm",
+      "avatar": "https://robohash.org/voluptatemdebitiset.png?size=50x50&set=set1",
+      "gender": "Male",
+      "phone": "676-983-4977",
+      "birthday": "1997-09-29",
+      "status": false,
+      "createdAt": 1615745961000,
+      "modifiedAt": 1615976361000
+    },
+    {
+      "id": 4,
+      "firstName": "Tremayne",
+      "lastName": "Americi",
+      "username": "tamerici3",
+      "email": "tamerici3@skype.com",
+      "password": "xbNRPGk",
+      "avatar": "https://robohash.org/rerumoccaecatiprovident.png?size=50x50&set=set1",
+      "gender": "Genderfluid",
+      "phone": "548-721-4661",
+      "birthday": "2004-10-01",
+      "status": false,
+      "createdAt": 1610281342000,
+      "modifiedAt": 1619283693000
+    },
+    {
+      "id": 5,
+      "firstName": "Luciana",
+      "lastName": "Fernihough",
+      "username": "lfernihough4",
+      "email": "lfernihough4@oaic.gov.au",
+      "password": "hDuqo8j5TXTl",
+      "avatar": "https://robohash.org/nobisplaceataut.png?size=50x50&set=set1",
+      "gender": "Female",
+      "phone": "597-670-2841",
+      "birthday": "1999-01-30",
+      "status": true,
+      "createdAt": 1614362898000,
+      "modifiedAt": 1615410795000
+    },
+    {
+      "id": 6,
+      "firstName": "Ursuline",
+      "lastName": "Gorrick",
+      "username": "ugorrick5",
+      "email": "ugorrick5@meetup.com",
+      "password": "GH1yLLmJoq",
+      "avatar": "https://robohash.org/voluptatemenimerror.png?size=50x50&set=set1",
+      "gender": "Bigender",
+      "phone": "686-821-0488",
+      "birthday": "1996-01-29",
+      "status": false,
+      "createdAt": 1621283400000,
+      "modifiedAt": 1621528590000
+    },
+    {
+      "id": 7,
+      "firstName": "Carlotta",
+      "lastName": "Chivers",
+      "username": "cchivers6",
+      "email": "cchivers6@ebay.com",
+      "password": "n5hIT4NKk8Q",
+      "avatar": "https://robohash.org/voluptatequasiest.png?size=50x50&set=set1",
+      "gender": "Non-binary",
+      "phone": "428-749-0095",
+      "birthday": "1998-05-19",
+      "status": true,
+      "createdAt": 1614957930000,
+      "modifiedAt": 1614957930000
+    },
+    {
+      "id": 8,
+      "firstName": "Thorpe",
+      "lastName": "Humblestone",
+      "username": "thumblestone7",
+      "email": "thumblestone7@china.com.cn",
+      "password": "iYlKMYJqIy2T",
+      "avatar": "https://robohash.org/voluptasetexplicabo.png?size=50x50&set=set1",
+      "gender": "Bigender",
+      "phone": "722-376-2905",
+      "birthday": "2007-09-24",
+      "status": true,
+      "createdAt": 1613665586000,
+      "modifiedAt": 1613665586000
+    },
+    {
+      "id": 9,
+      "firstName": "Chick",
+      "lastName": "Kynnd",
+      "username": "ckynnd8",
+      "email": "ckynnd8@spotify.com",
+      "password": "cGdnd1HapM",
+      "avatar": "https://robohash.org/commodiexplicaboveritatis.png?size=50x50&set=set1",
+      "gender": "Bigender",
+      "phone": "825-276-2045",
+      "birthday": "2007-03-01",
+      "status": true,
+      "createdAt": 1612782806000,
+      "modifiedAt": 1612782806000
+    },
+    {
+      "id": 10,
+      "firstName": "Alexis",
+      "lastName": "Loughan",
+      "username": "aloughan9",
+      "email": "aloughan9@soundcloud.com",
+      "password": "BUSPoSABA3s",
+      "avatar": "https://robohash.org/suntisteaperiam.png?size=50x50&set=set1",
+      "gender": "Polygender",
+      "phone": "391-273-2238",
+      "birthday": "2000-05-04",
+      "status": true,
+      "createdAt": 1615245193000,
+      "modifiedAt": 1616246055000
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 11",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/05/ip11-green.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/05/ip11-green.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/SEA_iPhone_11_G_3_3_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/SEA_iPhone_11_G_4_4_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/SEA_iPhone_11_G_1_1_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/SEA_iPhone_11_P_6_7_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/SEA_iPhone_11_G_7_5_11zon.webp"
+      ],
+      "price": 13990000,
+      "lastPrice": 19990000,
+      "slug": "iPhone-11"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/05/ip12-white.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/05/ip12-white.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_White_PDP_Image_Position-1B.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_White_PDP_Image_Position-2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_White_PDP_Image_Position-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_White_PDP_Image_Position-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_White_PDP_Image_Position-5.webp"
+      ],
+      "price": 18450000,
+      "lastPrice": 24450000,
+      "slug": "iPhone-12"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12 Pro Max",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/06/ip12-pro-max-graphite.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/06/ip12-pro-max-graphite.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Grapphite_2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Grapphite_3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Grapphite_4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Grapphite_5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Grapphite_7.webp"
+      ],
+      "price": 28460000,
+      "lastPrice": 34460000,
+      "slug": "iPhone-12-Pro-Max"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12 mini",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/ip12-mini-red.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/ip12-mini-red.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_Mini_PRED_PDP_Image_Position-1B_2_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_Mini_PRED_PDP_Image_Position-2_3_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_Mini_PRED_PDP_Image_Position-3_4_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/VN-iPhone_12_Mini_PRED_PDP_Image_Position-4_5_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone-12-ti%CC%81m-6.webp"
+      ],
+      "price": 15550000,
+      "lastPrice": 21550000,
+      "slug": "iPhone-12-Mini"
+    },
+    {
+      "id": 5,
+      "name": "iPhone XR",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPhone-XR.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/06/ipXR-black.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhoneXr-Black-360_US-EN-SCREEN_1_11zon.webp"
+      ],
+      "price": 11490000,
+      "lastPrice": 13990000,
+      "slug": "iPhone-XR"
+    },
+    {
+      "id": 6,
+      "name": "iPhone 12 Pro",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/ip12-pro-pacific-blue.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/ip12-pro-graphite.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/ip12-pro-pacific-blue.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Pacific_Blue_2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Pacific_Blue_4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Pacific_Blue_5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPhone_12_Pro_Max_Pacific_Blue_7.webp"
+      ],
+      "price": 25850000,
+      "lastPrice": 30990000,
+      "slug": "iPhone-12-Pro"
+    },
+    {
+      "id": 7,
+      "name": "iPhone SE 2020",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPhone-SE-2020.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipSE-2020-black.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/06/iPhone-SE-2020-Black-2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/06/iPhone-SE-2020-Black-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/06/iPhone-SE-2020-Black-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/06/iPhone-SE-2020-Black-5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/06/iPhone-SE-2020-Black-6.webp"
+      ],
+      "price": 10490000,
+      "lastPrice": 12990000,
+      "slug": "iPhone-12-SE"
+    }
+  ]
+}
