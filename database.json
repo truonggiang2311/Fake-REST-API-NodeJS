@@ -14,7 +14,8 @@
       ],
       "price": 13990000,
       "lastPrice": 19990000,
-      "slug": "iPhone-11"
+      "slug": "iPhone-11",
+      "quantity": 1
     },
     {
       "id": 2,
@@ -30,7 +31,8 @@
       ],
       "price": 18450000,
       "lastPrice": 24450000,
-      "slug": "iPhone-12"
+      "slug": "iPhone-12",
+      "quantity": 1
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       ],
       "price": 28460000,
       "lastPrice": 34460000,
-      "slug": "iPhone-12-Pro-Max"
+      "slug": "iPhone-12-Pro-Max",
+      "quantity": 1
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@
       ],
       "price": 15550000,
       "lastPrice": 21550000,
-      "slug": "iPhone-12-Mini"
+      "slug": "iPhone-12-Mini",
+      "quantity": 1
     },
     {
       "id": 5,
@@ -74,7 +78,8 @@
       ],
       "price": 11490000,
       "lastPrice": 13990000,
-      "slug": "iPhone-XR"
+      "slug": "iPhone-XR",
+      "quantity": 1
     },
     {
       "id": 6,
@@ -90,7 +95,8 @@
       ],
       "price": 25850000,
       "lastPrice": 30990000,
-      "slug": "iPhone-12-Pro"
+      "slug": "iPhone-12-Pro",
+      "quantity": 1
     },
     {
       "id": 7,
@@ -106,7 +112,8 @@
       ],
       "price": 10490000,
       "lastPrice": 12990000,
-      "slug": "iPhone-12-SE"
+      "slug": "iPhone-12-SE",
+      "quantity": 1
     }
   ]
 }
