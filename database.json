@@ -1,5 +1,5 @@
 {
-  "products": [
+  "iphone": [
     {
       "id": 1,
       "name": "iPhone 11",
@@ -113,6 +113,42 @@
       "price": 10490000,
       "lastPrice": 12990000,
       "slug": "iPhone-12-SE",
+      "quantity": 1
+    }
+  ],
+  "ipad": [
+    {
+      "id": 1,
+      "name": "iPad Pro M1",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-m1-silver.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-m1-silver.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-M1-11inch-Silver-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-M1-11inch-Silver-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-M1-11inch-Silver-5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-M1-11inch-Silver-6.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-M1-11inch-Silver-7.webp"
+      ],
+      "price": 20490000,
+      "lastPrice": 215000000,
+      "slug": "iPad-Pro-M1",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "iPad Pro 2020",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-2020-space-grey.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-2020-space-grey.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-2020-Space-Gray-2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-2020-Space-Gray-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-2020-Space-Gray-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-2020-Space-Gray-5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-2020-Space-Gray-6.webp"
+      ],
+      "price": 18790000,
+      "lastPrice": 19350000,
+      "slug": "iPad-Pro-2020",
       "quantity": 1
     }
   ]
