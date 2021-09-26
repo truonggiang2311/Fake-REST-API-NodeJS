@@ -118,7 +118,7 @@
   ],
   "ipad": [
     {
-      "id": 1,
+      "id": 8,
       "name": "iPad Pro M1",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-m1-silver.png",
       "smallImg": [
@@ -135,7 +135,7 @@
       "quantity": 1
     },
     {
-      "id": 2,
+      "id": 9,
       "name": "iPad Pro 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-2020-space-grey.png",
       "smallImg": [
