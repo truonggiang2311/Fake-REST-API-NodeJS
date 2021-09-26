@@ -14,7 +14,7 @@
       ],
       "price": 13990000,
       "lastPrice": 19990000,
-      "slug": "iPhone-11",
+      "slug": "iphone-11",
       "quantity": 1
     },
     {
@@ -31,7 +31,7 @@
       ],
       "price": 18450000,
       "lastPrice": 24450000,
-      "slug": "iPhone-12",
+      "slug": "iphone-12",
       "quantity": 1
     },
     {
@@ -48,7 +48,7 @@
       ],
       "price": 28460000,
       "lastPrice": 34460000,
-      "slug": "iPhone-12-Pro-Max",
+      "slug": "iphone-12-pro-max",
       "quantity": 1
     },
     {
@@ -65,7 +65,7 @@
       ],
       "price": 15550000,
       "lastPrice": 21550000,
-      "slug": "iPhone-12-Mini",
+      "slug": "iphone-12-mini",
       "quantity": 1
     },
     {
@@ -78,7 +78,7 @@
       ],
       "price": 11490000,
       "lastPrice": 13990000,
-      "slug": "iPhone-XR",
+      "slug": "iphone-xr",
       "quantity": 1
     },
     {
@@ -95,7 +95,7 @@
       ],
       "price": 25850000,
       "lastPrice": 30990000,
-      "slug": "iPhone-12-Pro",
+      "slug": "iphone-12-pro",
       "quantity": 1
     },
     {
@@ -112,7 +112,7 @@
       ],
       "price": 10490000,
       "lastPrice": 12990000,
-      "slug": "iPhone-12-SE",
+      "slug": "iphone-12-se",
       "quantity": 1
     }
   ],
@@ -130,8 +130,8 @@
         "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Pro-M1-11inch-Silver-7.webp"
       ],
       "price": 20490000,
-      "lastPrice": 215000000,
-      "slug": "iPad-Pro-M1",
+      "lastPrice": 21500000,
+      "slug": "ipad-pro-m1",
       "quantity": 1
     },
     {
@@ -148,7 +148,306 @@
       ],
       "price": 18790000,
       "lastPrice": 19350000,
-      "slug": "iPad-Pro-2020",
+      "slug": "ipad-pro-2020",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "name": "iPad Air 4",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPad-air-gen4-silver.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-air-gen4-silver.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Air-4-Rose-Silver-1.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Air-4-Rose-Silver-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Air-4-Rose-Silver-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Air-4-Rose-Silver-5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Air-4-Rose-Silver-6.webp"
+      ],
+      "price": 16450000,
+      "lastPrice": 16950000,
+      "slug": "ipad-air-4",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "name": "iPad Air 3",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPad-air-gen3-space-grey.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-air-gen3-space-grey.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipad-air-3-8.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipad-air-3-6.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipad-air-3-5.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipad-air-3-4.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/ipad-air-3-3.jpeg"
+      ],
+      "price": 12750000,
+      "lastPrice": 13150000,
+      "slug": "ipad-air-3",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "name": "iPad Gen 8",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPad-gen8-space-grey.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-gen8-space-grey.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Gen-8-Space-Gray-1.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Gen-8-Space-Gray-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Gen-8-Space-Gray-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Gen-8-Space-Gray-5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-Gen-8-Space-Gray-6.webp"
+      ],
+      "price": 8890000,
+      "lastPrice": 9000000,
+      "slug": "ipad-gen-8-2020",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "name": "iPad mini 5",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/06/iPad-mini-gen5-space-grey.png",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/06/iPad-mini-gen5-space-grey.png",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-mini-5-gray-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/iPad-mini-5-gold-1.webp"
+      ],
+      "price": 9990000,
+      "lastPrice": 10200000,
+      "slug": "ipad-air-3",
+      "quantity": 1
+    }
+  ],
+  "mac": [
+    {
+      "id": 14,
+      "name": "iMac M1 2021 24 inch",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/06/kjh.jpg",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/06/kjh.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/ds.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/3ds.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/sfdv.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/i86uth.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/i7yth.jpg"
+      ],
+      "price": 31450000,
+      "lastPrice": 32000000,
+      "slug": "imac-m1-2021-24-inch",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "name": "iMac 2020",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/09/iMac_21inch_PDP_Image_Position-1__US-1.jpg",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/09/iMac_21inch_PDP_Image_Position-1__US-1.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/09/iMac_21inch_PDP_Image_Position-2__US-1.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/09/iMac_21inch_PDP_Image_Position-3__US-1.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/09/iMac_21inch_PDP_Image_Position-4__US-1.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/09/iMac_21inch_PDP_Image_Position-5__US-1.jpg"
+      ],
+      "price": 24990000,
+      "lastPrice": 25000000,
+      "slug": "imac-2020",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "name": "MacBook Air M1 2020",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-1.webp",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-1.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-5.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-6.webp"
+      ],
+      "price": 26590000,
+      "lastPrice": 26950000,
+      "slug": "macbook-air-m1-2020",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "name": "MacBook Pro M1 2020",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-1_M1_Chip_1_11zon.webp",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-1_M1_Chip_1_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-2_M1_Chip_2_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-4_M1_Chip_4_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-4_M1_Chip_4_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-5_M1_Chip_5_11zon.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-6_M1_Chip_6_11zon.webp"
+      ],
+      "price": 31750000,
+      "lastPrice": 32500000,
+      "slug": "macbook-pro-m1-2020",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "name": "MacBook Air 2020",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Core-i5-4.jpeg",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Core-i5-4.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Gray-1.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Gray-2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Gray-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Gray-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Gray-5.webp"
+      ],
+      "price": 22450000,
+      "lastPrice": 23000000,
+      "slug": "macbook-air-2020",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "name": "MacBook Pro 2020",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/06/MacBook_Pro_13in_2ports_space_gray_PDP_US_1.jpg",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/06/MacBook_Pro_13in_2ports_space_gray_PDP_US_1.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_2020-Space-Gray-3.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_2020-Space-Gray-2.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_2020-Space-Gray-4.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_2020-Space-Gray-5.webp"
+      ],
+      "price": 28950000,
+      "lastPrice": 29450000,
+      "slug": "macbook-pro-2020",
+      "quantity": 1
+    }
+  ],
+  "apple-watch": [
+    {
+      "id": 20,
+      "name": "Apple Watch Series 6 Nhôm",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/06/Apple-Watch-6-42mm-Sport-band-xa%CC%81m.jpeg",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/06/Apple-Watch-6-42mm-Sport-band-xa%CC%81m.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/Apple-Watch-6-GPS-.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_Series_6_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-4.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_Series_6_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-5.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_Series_6_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-6.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_Series_6_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-8.jpg"
+      ],
+      "price": 8890000,
+      "lastPrice": 9200000,
+      "slug": "apple-watch-series-6",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "name": "Apple Watch Series 6 Thép",
+      "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/08/300d85c23b4aa9438844b00aab0d0721.VN-Apple_Watch_Series_6_LTE_40mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-1-1.jpg",
+      "smallImg": [
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/08/300d85c23b4aa9438844b00aab0d0721.VN-Apple_Watch_Series_6_LTE_40mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-1-1.jpg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/08/fb1a50f95a4479e0f79033f4637dc7c2.VN-Apple_Watch_Series_6_LTE_40mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-2-1.jpg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/08/ca8140537e7e88867b802799f6be6537.VN-Apple_Watch_Series_6_LTE_40mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-4-1.jpg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/08/a94de7e10a059df1847105a77ae204dd.VN-Apple_Watch_Series_6_LTE_40mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-6-1.jpg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/08/7d776cd22e14cb263b2736a449e22414.VN-Apple_Watch_Series_6_LTE_40mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-5-1.jpg"
+      ],
+      "price": 16650000,
+      "lastPrice": 17000000,
+      "slug": "apple-watch-series-6-thep",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "name": "Apple Watch SE",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/06/Apple-Watch-SE-40-xa%CC%81m.jpeg",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-1.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-1.webp",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_SE_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-3.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_SE_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-4.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_SE_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-5.jpg",
+        "https://shopdunk.com/wp-content/uploads/2021/06/VN-Apple_Watch_SE_LTE_40mm_Space_Gray_Aluminum_Black_Sport_Band_PDP_Image_Position-6.jpg"
+      ],
+      "price": 6590000,
+      "lastPrice": 6890000,
+      "slug": "apple-watch-se",
+      "quantity": 1
+    },
+    {
+      "id": 23,
+      "name": "Apple Watch Series 5 Nike",
+      "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/0a3d7ce416376e784f8122b066124d3f.Watch-5-Nike-2.png",
+      "smallImg": [
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/0a3d7ce416376e784f8122b066124d3f.Watch-5-Nike-2.png",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/0a3d7ce416376e784f8122b066124d3f.Watch-5-Nike-2.png"
+      ],
+      "price": 9950000,
+      "lastPrice": 10500000,
+      "slug": "apple-watch-series-5-nike",
+      "quantity": 1
+    },
+    {
+      "id": 24,
+      "name": "Apple Watch Series 5",
+      "src": "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-10.jpeg",
+      "smallImg": [
+        "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-10.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-2.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-3.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-4.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-1.jpeg",
+        "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-5.jpeg"
+      ],
+      "price": 7590000,
+      "lastPrice": 7990000,
+      "slug": "apple-watch-5",
+      "quantity": 1
+    }
+  ],
+  "airpods": [
+    {
+      "id": 25,
+      "name": "AirPods Max",
+      "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/8622f7c4efe31ca37c95eacae63930db.AirPods-Max.png",
+      "smallImg": [
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/8622f7c4efe31ca37c95eacae63930db.AirPods-Max.png",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/05/76bc26b289bb19287b4422f3a8d61442.AirPods_Max_Silver_PDP_Image_Position-5_VN.jpeg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/05/1227ebb72dff3e0d1c707ae81f2a18cd.AirPods_Max_Silver_PDP_Image_Position-6_VN.jpeg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/05/943ae1ee06181a12acd86f732eb6a1fd.AirPods_Max_Silver_PDP_Image_Position-7_VN.jpeg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/05/3cc08127c713000b95ca2e973d77f7ed.AirPods_Max_Silver_PDP_Image_Position-4_VN.jpeg"
+      ],
+      "price": 12190000,
+      "lastPrice": 12590000,
+      "slug": "airpods-max",
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "name": "AirPods Pro",
+      "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/5c61d0a54462d5328286e4e840aeb95c.1-9.jpeg",
+      "smallImg": [
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/5c61d0a54462d5328286e4e840aeb95c.1-9.jpeg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/425acdc06f3a39894d815d1114e30df3.2-7.jpeg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/97335a1e2bc1050f281103aa2287f8a4.3-7.jpeg",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/f800353e4f6bccf1e9daa9d8f6af85bd.5-2.jpeg"
+      ],
+      "price": 5090000,
+      "lastPrice": 5190000,
+      "slug": "airpods-pro",
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "name": "AirPods 2",
+      "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/c902fef2cb0324415e7dc08e95a6ebf6.AirPods.png",
+      "smallImg": [
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/c902fef2cb0324415e7dc08e95a6ebf6.AirPods.png",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/4fb9dca9981dd4d108efb65ede972953.airpods_2_2.webp",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/a14417c229617922893af0d7fe1b8694.airpods_2_3.webp",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/d764460974c09bd0fce2aa692e4b465e.airpods_2_4.webp",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/77fa32529853bd3fbc479ad3fa93022f.airpods_2_5.webp",
+        "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/7ddcbcbfa9c4bac6211dcaf1cf2fce64.airpods_2_6.webp"
+      ],
+      "price": 3290000,
+      "lastPrice": 3390000,
+      "slug": "airpods-2",
       "quantity": 1
     }
   ]
