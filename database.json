@@ -1,5 +1,5 @@
-{
-  "iphone": [
+{"products" : [
+  {"iphone": [
     {
       "id": 1,
       "name": "iPhone 11",
@@ -115,8 +115,8 @@
       "slug": "iphone-12-se",
       "quantity": 1
     }
-  ],
-  "ipad": [
+  ]},
+  {"ipad": [
     {
       "id": 8,
       "name": "iPad Pro M1",
@@ -216,8 +216,8 @@
       "slug": "ipad-air-3",
       "quantity": 1
     }
-  ],
-  "mac": [
+  ]},
+  {"mac": [
     {
       "id": 14,
       "name": "iMac M1 2021 24 inch",
@@ -318,8 +318,8 @@
       "slug": "macbook-pro-2020",
       "quantity": 1
     }
-  ],
-  "apple-watch": [
+  ]},
+  {"apple-watch": [
     {
       "id": 20,
       "name": "Apple Watch Series 6 Nhôm",
@@ -400,8 +400,8 @@
       "slug": "apple-watch-5",
       "quantity": 1
     }
-  ],
-  "airpods": [
+  ]},
+  {"airpods": [
     {
       "id": 25,
       "name": "AirPods Max",
@@ -450,5 +450,6 @@
       "slug": "airpods-2",
       "quantity": 1
     }
-  ]
+  ]}
+]
 }
