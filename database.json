@@ -1,5 +1,4 @@
-{
-  [
+[
     {
       "brand": "iphone",
       "id": 1,
@@ -121,9 +120,7 @@
       "lastPrice": 12990000,
       "slug": "iphone-12-se",
       "quantity": 1
-    }
-  ],
-   [
+    },
     {
       "brand": "ipad",
       "id": 8,
@@ -228,9 +225,7 @@
       "lastPrice": 10200000,
       "slug": "ipad-air-3",
       "quantity": 1
-    }
-  ],
-   [
+    },
     {
       "brand": "mac",
       "id": 14,
@@ -336,9 +331,7 @@
       "lastPrice": 29450000,
       "slug": "macbook-pro-2020",
       "quantity": 1
-    }
-  ],
-  [
+    },
     {
       "brand": "apple watch",
       "id": 20,
@@ -423,9 +416,7 @@
       "lastPrice": 7990000,
       "slug": "apple-watch-5",
       "quantity": 1
-    }
-  ],
-  [
+    },
     {
       "brand": "airpods",
       "id": 25,
@@ -477,6 +468,5 @@
       "slug": "airpods-2",
       "quantity": 1
     }
-  ]
-}
+]
 
