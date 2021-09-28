@@ -319,7 +319,7 @@
       "quantity": 1
     }
   ],
-  "apple watch": [
+  "apple-watch": [
     {
       "id": 20,
       "name": "Apple Watch Series 6 Nhôm",
@@ -401,7 +401,7 @@
       "quantity": 1
     }
   ],
-  "air pods": [
+  "air-pods": [
     {
       "id": 25,
       "name": "AirPods Max",
