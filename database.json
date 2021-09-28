@@ -1,6 +1,7 @@
-{
-  "iphone": [
+[
+  [
     {
+      "brand": "iphone",
       "id": 1,
       "name": "iPhone 11",
       "src": "https://shopdunk.com/wp-content/uploads/2021/09/ip11-green-min.png",
@@ -18,6 +19,7 @@
       "quantity": 1
     },
     {
+      "brand": "iphone",
       "id": 2,
       "name": "iPhone 12",
       "src": "https://shopdunk.com/wp-content/uploads/2021/05/ip12-white.png",
@@ -35,6 +37,7 @@
       "quantity": 1
     },
     {
+      "brand": "iphone",
       "id": 3,
       "name": "iPhone 12 Pro Max",
       "src": "https://shopdunk.com/wp-content/uploads/2021/06/ip12-pro-max-graphite.png",
@@ -52,6 +55,7 @@
       "quantity": 1
     },
     {
+      "brand": "iphone",
       "id": 4,
       "name": "iPhone 12 mini",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/ip12-mini-red.png",
@@ -69,6 +73,7 @@
       "quantity": 1
     },
     {
+      "brand": "iphone",
       "id": 5,
       "name": "iPhone XR",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPhone-XR.png",
@@ -82,6 +87,7 @@
       "quantity": 1
     },
     {
+      "brand": "iphone",
       "id": 6,
       "name": "iPhone 12 Pro",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/ip12-pro-pacific-blue.png",
@@ -99,6 +105,7 @@
       "quantity": 1
     },
     {
+      "brand": "iphone",
       "id": 7,
       "name": "iPhone SE 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPhone-SE-2020.png",
@@ -116,8 +123,9 @@
       "quantity": 1
     }
   ],
-  "ipad": [
+   [
     {
+      "brand": "ipad",
       "id": 8,
       "name": "iPad Pro M1",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-m1-silver.png",
@@ -135,6 +143,7 @@
       "quantity": 1
     },
     {
+      "brand": "ipad",
       "id": 9,
       "name": "iPad Pro 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/ipad-pro-11inch-2020-space-grey.png",
@@ -152,6 +161,7 @@
       "quantity": 1
     },
     {
+      "brand": "ipad",
       "id": 10,
       "name": "iPad Air 4",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPad-air-gen4-silver.png",
@@ -169,6 +179,7 @@
       "quantity": 1
     },
     {
+      "brand": "ipad",
       "id": 11,
       "name": "iPad Air 3",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPad-air-gen3-space-grey.png",
@@ -186,6 +197,7 @@
       "quantity": 1
     },
     {
+      "brand": "ipad",
       "id": 12,
       "name": "iPad Gen 8",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/iPad-gen8-space-grey.png",
@@ -203,6 +215,7 @@
       "quantity": 1
     },
     {
+      "brand": "ipad",
       "id": 13,
       "name": "iPad mini 5",
       "src": "https://shopdunk.com/wp-content/uploads/2021/06/iPad-mini-gen5-space-grey.png",
@@ -217,8 +230,9 @@
       "quantity": 1
     }
   ],
-  "mac": [
+   [
     {
+      "brand": "mac",
       "id": 14,
       "name": "iMac M1 2021 24 inch",
       "src": "https://shopdunk.com/wp-content/uploads/2021/06/kjh.jpg",
@@ -236,6 +250,7 @@
       "quantity": 1
     },
     {
+      "brand": "mac",
       "id": 15,
       "name": "iMac 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/09/iMac_21inch_PDP_Image_Position-1__US-1.jpg",
@@ -252,6 +267,7 @@
       "quantity": 1
     },
     {
+      "brand": "mac",
       "id": 16,
       "name": "MacBook Air M1 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Air_M1_Space-Gray-1.webp",
@@ -269,6 +285,7 @@
       "quantity": 1
     },
     {
+      "brand": "mac",
       "id": 17,
       "name": "MacBook Pro M1 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/MacBook_Pro_13_SpGry_PDP_Image_Position-1_M1_Chip_1_11zon.webp",
@@ -286,6 +303,7 @@
       "quantity": 1
     },
     {
+      "brand": "mac",
       "id": 18,
       "name": "MacBook Air 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/MacBook-Air-2020-Core-i5-4.jpeg",
@@ -303,6 +321,7 @@
       "quantity": 1
     },
     {
+      "brand": "mac",
       "id": 19,
       "name": "MacBook Pro 2020",
       "src": "https://shopdunk.com/wp-content/uploads/2021/06/MacBook_Pro_13in_2ports_space_gray_PDP_US_1.jpg",
@@ -319,8 +338,9 @@
       "quantity": 1
     }
   ],
-  "apple-watch": [
+  [
     {
+      "brand": "apple watch",
       "id": 20,
       "name": "Apple Watch Series 6 Nhôm",
       "src": "https://shopdunk.com/wp-content/uploads/2021/06/Apple-Watch-6-42mm-Sport-band-xa%CC%81m.jpeg",
@@ -338,6 +358,7 @@
       "quantity": 1
     },
     {
+      "brand": "apple watch",
       "id": 21,
       "name": "Apple Watch Series 6 Thép",
       "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/08/300d85c23b4aa9438844b00aab0d0721.VN-Apple_Watch_Series_6_LTE_40mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-1-1.jpg",
@@ -354,6 +375,7 @@
       "quantity": 1
     },
     {
+      "brand": "apple watch",
       "id": 22,
       "name": "Apple Watch SE",
       "src": "https://shopdunk.com/wp-content/uploads/2021/06/Apple-Watch-SE-40-xa%CC%81m.jpeg",
@@ -371,6 +393,7 @@
       "quantity": 1
     },
     {
+      "brand": "apple watch",
       "id": 23,
       "name": "Apple Watch Series 5 Nike",
       "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/07/0a3d7ce416376e784f8122b066124d3f.Watch-5-Nike-2.png",
@@ -384,6 +407,7 @@
       "quantity": 1
     },
     {
+      "brand": "apple-watch",
       "id": 24,
       "name": "Apple Watch Series 5",
       "src": "https://shopdunk.com/wp-content/uploads/2021/07/Apple-Watch-5-10.jpeg",
@@ -401,8 +425,9 @@
       "quantity": 1
     }
   ],
-  "airpods": [
+  [
     {
+      "brand": "airpods",
       "id": 25,
       "name": "AirPods Max",
       "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/8622f7c4efe31ca37c95eacae63930db.AirPods-Max.png",
@@ -419,6 +444,7 @@
       "quantity": 1
     },
     {
+      "brand": "airpods",
       "id": 26,
       "name": "AirPods Pro",
       "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/5c61d0a54462d5328286e4e840aeb95c.1-9.jpeg",
@@ -434,6 +460,7 @@
       "quantity": 1
     },
     {
+      "brand": "airpods",
       "id": 27,
       "name": "AirPods 2",
       "src": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/wp-content/uploads/2021/06/c902fef2cb0324415e7dc08e95a6ebf6.AirPods.png",
@@ -451,5 +478,5 @@
       "quantity": 1
     }
   ]
-}
+]
 
